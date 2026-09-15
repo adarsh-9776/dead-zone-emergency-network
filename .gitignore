@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# SQLite
+*.db
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Android
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
